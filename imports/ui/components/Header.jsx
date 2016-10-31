@@ -52,7 +52,7 @@ export default class Header extends Component {
                 <div id="gray-theme" className="theme-container bg-gray"></div>
               </div>
             </div>
-            <button id="logout" className="btn-block" href="#">Logout</button>
+              
           </div>
           <span id="user-status">
             <Icon id="user-status-icon" iconName="status online" />
